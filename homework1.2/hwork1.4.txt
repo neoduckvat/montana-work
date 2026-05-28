@@ -1,0 +1,12 @@
+➜  ~ sleep 300 &
+[1] 26749
+➜  ~ pgrep sleep
+26749
+➜  ~ ps aux | grep sleep 
+neoduck+   26749  0.0  0.0  17444  2540 pts/0    SN   22:48   0:00 sleep 300
+neoduck+   26771  0.0  0.0  17984  2500 pts/0    S+   22:49   0:00 grep --color=auto --exclude-dir=.bzr --exclude-dir=CVS --exclude-dir=.git --exclude-dir=.hg --exclude-dir=.svn --exclude-dir=.idea --exclude-dir=.tox --exclude-dir=.venv --exclude-dir=venv sleep
+➜  ~ kill 26749
+[1]  + 26749 terminated  sleep 300                                              
+➜  ~ pgrep sleep
+➜  ~ 
+➜  ~ 

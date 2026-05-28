@@ -1,0 +1,96 @@
+Script started on 2026-05-28 22:18:11+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="81" LINES="24"]
+[1m[7m%[27m[1m[0m                                                                                 ]2;neoduckvat@neo-comp:~]1;~]7;file://neo-comp/home/neoduckvat\[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hззцв[?1l>[?2004l
+]2;зцв]1;зцвzsh: command not found: зцв
+[1m[7m%[27m[1m[0m                                                                                 ]2;neoduckvat@neo-comp:~]1;~]7;file://neo-comp/home/neoduckvat\[0m[27m[24m[J[01;31m➜  [36m~[00m [K[?1h=[?2004h  зув     pwd[?1l>[?2004l
+]2;pwd]1;pwd/home/neoduckvat
+[1m[7m%[27m[1m[0m                                                                                 ]2;neoduckvat@neo-comp:~]1;~]7;file://neo-comp/home/neoduckvat\[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004hccd / etc[?1l>[?2004l
+]2;cd /etc]1;cd[1m[7m%[27m[1m[0m                                                                                 ]2;neoduckvat@neo-comp:/etc]1;/etc]7;file://neo-comp/etc\[0m[27m[24m[J[01;32m➜  [36m/etc[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsadduser.conf            hdparm.conf          prime-discrete
+[0m[01;34malsa[0m                    host.conf            profile
+[01;34malternatives[0m            hostname             [01;34mprofile.d[0m
+anacrontab              hosts                protocols
+[01;34mapache2[0m                 hosts.allow          [01;34mpulse[0m
+apg.conf                hosts.deny           [01;34mpython3[0m
+[01;34mapm[0m                     [01;34mhp[0m                   [01;34mpython3.12[0m
+[01;34mapparmor[0m                [01;34mifplugd[0m              [01;34mrc0.d[0m
+[01;34mapparmor.d[0m              [01;34mImageMagick-6[0m        [01;34mrc1.d[0m
+[01;34mapport[0m                  [01;34minit[0m                 [01;34mrc2.d[0m
+[01;34mapt[0m                     [01;34minit.d[0m               [01;34mrc3.d[0m
+apt-fast.conf           [01;34minitramfs-tools[0m      [01;34mrc4.d[0m
+[01;34mavahi[0m                   inputrc              [01;34mrc5.d[0m
+bash.bashrc             [01;34minsserv.conf.d[0m       [01;34mrc6.d[0m
+bash_completion         [01;34mipp-usb[0m              [01;34mrcS.d[0m
+[01;34mbash_completion.d[0m       [01;34miproute2[0m             [01;36mresolv.conf[0m
+bindresvport.blacklist  issue                [01;36mrmt[0m
+[01;34mbinfmt.d[0m                issue.net            rpc
+[01;34mbluetooth[0m               [01;34mkernel[0m               rsyslog.conf
+brlapi.key              kerneloops.conf      [01;34mrsyslog.d[0m
+[01;34mbrltty[0m                  [01;34mkrb5.conf.d[0m          rygel.conf
+brltty.conf             [01;34mldap[0m                 [01;34msane.d[0m
+[01;34mca-certificates[0m         ld.so.cache          [01;34msecurity[0m
+ca-certificates.conf    ld.so.conf           [01;34mselinux[0m
+[01;34mchatscripts[0m             [01;34mld.so.conf.d[0m         sensors3.conf
+[01;34mchromium[0m                legal                [01;34msensors.d[0m
+[01;34mcloud[0m                   libao.conf           services
+[01;34mcolord[0m                  libaudit.conf        [01;34msgml[0m
+[01;34mconsole-setup[0m           [01;34mlibblockdev[0m          shadow
+[01;34mcracklib[0m                [01;34mlibibverbs.d[0m         shadow-
+[01;34mcredstore[0m               [01;34mlibnl-3[0m              shells
+[01;34mcredstore.encrypted[0m     [01;34mlibpaper.d[0m           [01;34mskel[0m
+[01;34mcron.d[0m                  [01;34mlibreoffice[0m          [01;34msnmp[0m
+[01;34mcron.daily[0m              [01;34mlighttpd[0m             [01;34mspeech-dispatcher[0m
+[01;34mcron.hourly[0m             locale.alias         [01;34mssh[0m
+[01;34mcron.monthly[0m            locale.conf          [01;34mssl[0m
+crontab                 locale.gen           [01;34msssd[0m
+[01;34mcron.weekly[0m             [01;36mlocaltime[0m            subgid
+[01;34mcron.yearly[0m             [01;34mlogcheck[0m             subgid-
+[01;34mcups[0m                    login.defs           subuid
+[01;34mcupshelpers[0m             logrotate.conf       subuid-
+[01;34mdbus-1[0m                  [01;34mlogrotate.d[0m          sudo.conf
+[01;34mdconf[0m                   lsb-release          sudoers
+debconf.conf            machine-id           [01;34msudoers.d[0m
+debian_version          magic                sudo_logsrvd.conf
+[01;34mdebuginfod[0m              magic.mime           [01;34msupercat[0m
+[01;34mdefault[0m                 manpath.config       sysctl.conf
+deluser.conf            mime.types           [01;34msysctl.d[0m
+[01;34mdepmod.d[0m                mke2fs.conf          [01;34msysstat[0m
+[01;34mdhcp[0m                    [01;34mModemManager[0m         [01;34msystemd[0m
+dhcpcd.conf             [01;34mmodprobe.d[0m           [01;34mterminfo[0m
+[01;34mdictionaries-common[0m     modules              [01;34mthermald[0m
+[01;34mdpkg[0m                    [01;34mmodules-load.d[0m       timezone
+e2scrub.conf            [01;36mmtab[0m                 [01;34mtmpfiles.d[0m
+[01;34memacs[0m                   nanorc               [01;34mubuntu-advantage[0m
+environment             netconfig            ucf.conf
+[01;34menvironment.d[0m           [01;34mnetplan[0m              u-d-c-nvidia-runtimepm-override
+ethertypes              [01;34mnetwork[0m              [01;34mudev[0m
+[01;34mfonts[0m                   [01;34mnetworkd-dispatcher[0m  [01;34mudisks2[0m
+fprintd.conf            [01;34mNetworkManager[0m       [01;34mufw[0m
+fstab                   networks             [01;34mupdate-manager[0m
+fuse.conf               [01;34mnewt[0m                 [01;34mupdate-motd.d[0m
+[01;34mfwupd[0m                   [01;32mnftables.conf[0m        [01;34mupdate-notifier[0m
+gai.conf                nsswitch.conf        [01;34mUPower[0m
+[01;34mgdb[0m                     [01;34mOpenCL[0m               usb_modeswitch.conf
+[01;34mgdm3[0m                    [01;34mopenvpn[0m              [01;34musb_modeswitch.d[0m
+[01;34mgeoclue[0m                 [01;34mopt[0m                  [01;36mvconsole.conf[0m
+[01;34mghostscript[0m             [01;36mos-release[0m           vdpau_wrapper.cfg
+[01;34mglvnd[0m                   [01;34mPackageKit[0m           [01;34mvim[0m
+[01;34mgnome[0m                   pam.conf             [01;36mvtrgb[0m
+[01;34mgnome-remote-desktop[0m    [01;34mpam.d[0m                [01;34mvulkan[0m
+[01;34mgnutls[0m                  papersize            [01;34mw3m[0m
+gprofng.rc              passwd               wgetrc
+[01;34mgroff[0m                   passwd-              whoopsie
+group                   [01;34mpcmcia[0m               [01;34mwpa_supplicant[0m
+group-                  [01;34mperl[0m                 [01;34mX11[0m
+[01;34mgrub.d[0m                  [01;34mpki[0m                  xattr.conf
+gshadow                 [01;34mplymouth[0m             [01;34mxdg[0m
+gshadow-                [01;34mpm[0m                   [01;34mxml[0m
+[01;34mgss[0m                     pnm2ppa.conf         [01;34mzsh[0m
+[01;34mgtk-2.0[0m                 [01;34mpolkit-1[0m             zsh_command_not_found
+[01;34mgtk-3.0[0m                 [01;34mppp[0m
+[1m[7m%[27m[1m[0m                                                                                 ]2;neoduckvat@neo-comp:/etc]1;/etc]7;file://neo-comp/etc\[0m[27m[24m[J[01;32m➜  [36m/etc[00m [K[?1h=[?2004hccd /var/log[?1l>[?2004l
+]2;cd /var/log]1;cd[1m[7m%[27m[1m[0m                                                                                 ]2;neoduckvat@neo-comp:/var/log]1;/var/log]7;file://neo-comp/var/log\[0m[27m[24m[J[01;32m➜  [36mlog[00m [K[?1h=[?2004hlls /usr/bin \ \ | wc -l[?1l>[?2004l
+]2;ls --color=tty /usr/bin | wc -l]1;ls2023
+[1m[7m%[27m[1m[0m                                                                                 ]2;neoduckvat@neo-comp:/var/log]1;/var/log]7;file://neo-comp/var/log\[0m[27m[24m[J[01;32m➜  [36mlog[00m [K[?1h=[?2004hccd[?1l>[?2004l
+]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                                 ]2;neoduckvat@neo-comp:~]1;~]7;file://neo-comp/home/neoduckvat\[0m[27m[24m[J[01;32m➜  [36m~[00m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on 2026-05-28 22:19:49+03:00 [COMMAND_EXIT_CODE="0"]

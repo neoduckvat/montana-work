@@ -1,0 +1,55 @@
+Welcome back, neoduckvat! Today is $(date +%A).
+➜  ~ ll
+итого 424
+drwxr-x--- 29 neoduckvat neoduckvat   4096 May 29 00:52 .
+drwxr-xr-x  3 root       root         4096 Apr 19 04:40 ..
+-rw-------  1 neoduckvat neoduckvat   2476 Apr 23 06:38 .bash_history
+-rw-r--r--  1 neoduckvat neoduckvat    220 Mar 31  2024 .bash_logout
+-rw-r--r--  1 neoduckvat neoduckvat   3994 May 29 00:49 .bashrc
+drwx------ 28 neoduckvat neoduckvat   4096 May 28 22:36 .cache
+drwx------ 22 neoduckvat neoduckvat   4096 May 28 23:24 .config
+drwx------  3 neoduckvat neoduckvat   4096 May 17 17:08 .copilot
+drwxr-xr-x  2 neoduckvat neoduckvat   4096 Apr 20 01:41 Desktop
+drwxrwxr-x  4 neoduckvat neoduckvat   4096 May 28 22:25 dev
+drwxr-xr-x  2 neoduckvat neoduckvat   4096 Apr 20 01:41 Documents
+drwxrwxr-x  3 neoduckvat neoduckvat   4096 May 17 17:07 .dotnet
+drwxr-xr-x  4 neoduckvat neoduckvat   4096 May 17 18:02 Downloads
+-rw-rw-r--  1 neoduckvat neoduckvat     56 May 17 17:37 .gitconfig
+drwx------  2 neoduckvat neoduckvat   4096 Apr 23 05:45 .gnupg
+-rwxrwxr-x  1 neoduckvat neoduckvat     37 May 28 22:53 info.sh
+drwxrwxr-x  4 neoduckvat neoduckvat   4096 May 17 16:50 .java
+drwx------  3 neoduckvat neoduckvat   4096 May 17 16:55 .launchpadlib
+-rw-------  1 neoduckvat neoduckvat     20 May 28 22:39 .lesshst
+drwx------  4 neoduckvat neoduckvat   4096 Apr 19 14:48 .local
+drwxrwxr-x  3 neoduckvat neoduckvat   4096 May 28 22:31 montanim-cli
+drwxr-xr-x  2 neoduckvat neoduckvat   4096 Apr 20 01:41 Music
+-rw-rw-r--  1 neoduckvat neoduckvat   8894 May 28 22:19 navigation.log
+-rw-rw-r--  1 neoduckvat neoduckvat     22 May 29 00:21 numbers.txt
+drwx------  3 neoduckvat neoduckvat   4096 May 17 02:10 .nv
+-rw-rw-r--  1 neoduckvat neoduckvat   1014 May 17 15:46 .nvidia-settings-rc
+drwxr-xr-x 13 neoduckvat neoduckvat   4096 Apr 23 05:59 .oh-my-zsh
+-rw-r--r--  1 neoduckvat neoduckvat    310 Apr 20 01:37 .pam_environment
+drwxr-xr-x  4 neoduckvat neoduckvat   4096 May 28 22:40 Pictures
+drwx------  3 neoduckvat neoduckvat   4096 Apr 23 07:02 .pki
+-rw-r--r--  1 neoduckvat neoduckvat    807 Mar 31  2024 .profile
+drwxr-xr-x  2 neoduckvat neoduckvat   4096 Apr 20 01:41 Public
+drwxrwxr-x  4 neoduckvat neoduckvat   4096 May 28 22:02 PyCharmMiscProject
+-rw-------  1 neoduckvat neoduckvat      8 May 29 00:02 secret.key
+-rw-r--r--  1 neoduckvat neoduckvat     10 Apr 23 05:59 .shell.pre-oh-my-zsh
+drwx------ 12 neoduckvat neoduckvat   4096 May 17 17:07 snap
+-rw-rw-r--  1 neoduckvat neoduckvat     22 May 29 00:21 sorted.txt
+drwx------  2 neoduckvat neoduckvat   4096 Apr 19 14:48 .ssh
+lrwxrwxrwx  1 neoduckvat neoduckvat     35 May 17 16:56 .steampath -> /home/neoduckvat/.steam/sdk32/steam
+lrwxrwxrwx  1 neoduckvat neoduckvat     33 May 17 16:56 .steampid -> /home/neoduckvat/.steam/steam.pid
+-rw-r--r--  1 neoduckvat neoduckvat      0 Apr 20 00:51 .sudo_as_admin_successful
+drwxr-xr-x  2 neoduckvat neoduckvat   4096 Apr 20 01:41 Templates
+-rw-rw-r--  1 neoduckvat neoduckvat     16 May 29 00:21 unique.txt
+drwxr-xr-x  3 neoduckvat neoduckvat   4096 May 28 22:12 Videos
+drwxrwxr-x  4 neoduckvat neoduckvat   4096 May 17 17:07 .vscode
+drwxrwxr-x  3 neoduckvat neoduckvat   4096 May 17 17:07 .vscode-shared
+drwxrwxr-x  4 neoduckvat neoduckvat   4096 Apr 23 05:41 .wine
+-rw-rw-r--  1 neoduckvat neoduckvat  50730 May 17 16:48 .zcompdump
+-rw-rw-r--  1 neoduckvat neoduckvat  52203 May 17 16:48 .zcompdump-neo-comp-5.9
+-r--r--r--  1 neoduckvat neoduckvat 120872 May 17 16:48 .zcompdump-neo-comp-5.9.zwc
+-rw-------  1 neoduckvat neoduckvat   4388 May 29 00:52 .zsh_history
+-rw-r--r--  1 neoduckvat neoduckvat   4253 May 29 00:52 .zshrc

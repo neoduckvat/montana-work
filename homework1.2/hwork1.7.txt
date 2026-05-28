@@ -1,0 +1,35 @@
+printf "42\n17\n8\n99\n3\n17\n42\n56\n" > numbers.txt
+➜  ~ sort -n numbers.txt > sorted.txt
+➜  ~ sort numbers.txt | uniq > unique.txt
+➜  ~ wc -l numbers.txt
+8 numbers.txt
+➜  ~ grep "7" numbers.txt
+
+
+
+
+➜  ~ cat numbers.txt
+42
+17
+8
+99
+3
+17
+42
+56
+➜  ~ cat sorted.txt
+3
+8
+17
+17
+42
+42
+56
+99
+➜  ~ cat unique.txt
+17
+3
+42
+56
+8
+99

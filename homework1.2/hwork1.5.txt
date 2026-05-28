@@ -1,0 +1,14 @@
+whoami
+
+pwd
+
+date
+
+ls -l ~ | wc -l
+
+
+➜  ~ ./info.sh
+neoduckvat
+/home/neoduckvat
+Thu May 28 10:54:07 PM MSK 2026
+15
